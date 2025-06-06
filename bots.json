@@ -1,8 +1,7 @@
 [
   {
     "name": "Whale Miner Bot",
-    "logo": "https://raw.githubusercontent.com/codekimmy/ton/main/img/teabank_108x108.jpg
-",
+    "logo": "img/teabank_108x108.jpg",
     "tg_url": "https://t.me/whaleminerbot",
     "desc": "Earn TON by clicking once a day, with bonus for inviting friends.",
     "features": "Auto mining, referral rewards, daily roulette.",
