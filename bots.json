@@ -1,18 +1,18 @@
 [
   {
-    "name": "Whale Miner Bot",
-    "logo": "img/teabank_108x108.jpg",
-    "tg_url": "https://t.me/whaleminerbot",
-    "desc": "Earn TON by clicking once a day, with bonus for inviting friends.",
-    "features": "Auto mining, referral rewards, daily roulette.",
-    "earning": "Each click = mine TON, get extra 5% per referral.",
-    "min_withdraw": "1 TON",
-    "proof_img": "https://raw.githubusercontent.com/codekimmy/ton/main/whale-proof.jpg",
-    "youtube": "https://youtu.be/yourvideo1",
-    "tip": "Turn off notifications if you're a beginner. Beware of scam types!",
-    "review": "Withdrew 1 TON in 4 days! Fast payout, earning is possible even without referrals.",
-    "last_update": "2025-06-05"
-  },
+  "name": "TeaBank",
+  "logo": "https://teabank.io/logo.png",
+  "tg_url": "https://t.me/tea_bank_bot",
+  "desc": "Grow tea trees and earn TON by harvesting leaves.",
+  "features": "Daily harvesting, tree upgrades, referral rewards.",
+  "earning": "Earn TON by collecting tea leaves every 3 hours.",
+  "min_withdraw": "No minimum withdrawal; process takes a few minutes to hours.",
+  "tip": "Water your trees daily to maximize TON generation.",
+  "proof_img": "https://teabank.io/proof.png",
+  "youtube": "https://www.youtube.com/watch?v=WXNtr_fQj2o",
+  "review": "A unique Telegram game combining tea cultivation with TON earnings.",
+  "last_update": "2025-06-06"
+},
   {
     "name": "Lucky Spin Bot",
     "logo": "https://raw.githubusercontent.com/codekimmy/ton/main/lucky-spin-logo.png",
