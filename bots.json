@@ -1,7 +1,7 @@
 [
   {
   "name": "TeaBank",
-  "logo": "https://teabank.io/logo.png",
+  "logo": "img/teabank_108x108.jpg",
   "tg_url": "https://t.me/tea_bank_bot",
   "desc": "Grow tea trees and earn TON by harvesting leaves.",
   "features": "Daily harvesting, tree upgrades, referral rewards.",
