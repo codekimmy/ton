@@ -2,7 +2,7 @@
   {
   "name": "TeaBank",
   "logo": "img/teabank_108x108.jpg",
-  "tg_url": "https://t.me/tea_bank_bot",
+  "tg_url": "https://t.me/tea_bank_bot/app?startapp=270676",
   "desc": "Grow tea trees and earn TON by harvesting leaves.",
   "features": "Daily harvesting, tree upgrades, referral rewards.",
   "earning": "Earn TON by collecting tea leaves every 3 hours.",
